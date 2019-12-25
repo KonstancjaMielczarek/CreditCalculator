@@ -1,0 +1,1 @@
+It is a simple application whose task is to calculate the monthly installment. The goal of this project was to become familiar with PHP and HTML5. After logging in to the website, enter values in the form fields and confirm the operations. After a while, the calculated monthly loan installment will be displayed.
